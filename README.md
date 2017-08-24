@@ -4,3 +4,6 @@ This project was completed as part of the Dataquest curriculum. It takes data fr
 ## Techniques used
 - pandas for data cleaning
 - matplotlib for data visualization
+
+## Data source
+538: https://github.com/fivethirtyeight
